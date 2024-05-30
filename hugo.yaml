@@ -40,13 +40,13 @@ params:
   homeInfoParams:
     Title: "👋 Welcome to Kane'Doodle"
     Content: >
-      - Hi, my name is Sotaro Kaneda
+      - Hi, my name is Sotaro Kaneda.
 
       - I'm documenting my notes about my hobbies in this blog.
 
       - I'll be jumping back and forth between different topics so bear with me ;)
       
-      - P.S. this blog is still in development
+      - P.S. this blog is still in development and should not be used as a trustable source.
 
   socialIcons:
     - name: github
