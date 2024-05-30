@@ -1,6 +1,7 @@
 +++
 title = 'Into to Markdown'
 date = 2024-05-30T10:33:10+09:00
+author = 'Sotaro Kaneda'
 draft = false
 +++
 - [What is Markdown](#what-is-markdown)
@@ -59,4 +60,4 @@ Images are similar to links but should have an exclamation mark (!) before the t
 
 I found that using markdown is much easier than writing HTML. If you would like to start writing markdown, [download VS Code](https://code.visualstudio.com/download) and use the [markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension to preview your edits.
 
-![MarkdownDarthVader](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbournetocode.com%2Fprojects%2FAQA_AS_Theory%2Fpages%2FMarkdown-cheat-sheet.html&psig=AOvVaw0X5Y8jsH5cmOdAK0FlFuG6&ust=1717136127057000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjPuunctIYDFQAAAAAdAAAAABAE)
+![MarkdownDarthVader](https://bournetocode.com/projects/AQA_AS_Theory/pages/img/markdown.jpg)
