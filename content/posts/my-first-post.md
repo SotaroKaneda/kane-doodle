@@ -49,11 +49,14 @@ To add code blocks, use a tab or four spaces.
 ### Links
 To make a link add hard brackets [] around the text and the url afterwards with soft brackets () around it.
 
+    [Link to Google](https://www.google.com)
+
 ### Images
 Images are similar to links but should have an exclamation mark (!) before the text.
 
+    ![Name of Image](Link to image)
+>The link to the image can be either from the internet or stored locally.
 
+I found that using markdown is much easier than writing HTML. If you would like to start writing markdown, [download VS Code](https://code.visualstudio.com/download) and use the [markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) extension to preview your edits.
 
-
-
-
+![MarkdownDarthVader](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbournetocode.com%2Fprojects%2FAQA_AS_Theory%2Fpages%2FMarkdown-cheat-sheet.html&psig=AOvVaw0X5Y8jsH5cmOdAK0FlFuG6&ust=1717136127057000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjPuunctIYDFQAAAAAdAAAAABAE)
