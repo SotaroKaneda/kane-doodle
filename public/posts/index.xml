@@ -9,12 +9,12 @@
     <lastBuildDate>Thu, 30 May 2024 10:33:10 +0900</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Into to Markdown</title>
       <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Thu, 30 May 2024 10:33:10 +0900</pubDate>
       <guid>https://example.org/posts/my-first-post/</guid>
-      <description> Introduction New Section Introduction This is bold text, and this is emphasized text. Lets delete this later.
-New Section </description>
+      <description>What is Markdown Basic Syntax Headings Italicized Bold Blockquote Code Blocks Links Images What is Markdown Before talking about what Markdown is, we should first introduce Markup.
+The most popular Markup language is HyperText Markup Language or HTML. Markup allows us to use tags to structure a web document. Despite Markup being widely used, tags that are used to annotate text can be long and take time to write.</description>
     </item>
   </channel>
 </rss>
